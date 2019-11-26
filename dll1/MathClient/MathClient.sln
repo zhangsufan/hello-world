@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathClient", "MathClient\MathClient.vcxproj", "{A61BF0FB-2177-40FF-82B2-3AF2C1CBC577}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathLibrary", "..\MathLibrary\MathLibrary\MathLibrary.vcxproj", "{5B36B4ED-0B74-4266-AA58-FCB287336C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61BF0FB-2177-40FF-82B2-3AF2C1CBC577}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A61BF0FB-2177-40FF-82B2-3AF2C1CBC577}.Debug|Win32.Build.0 = Debug|Win32
+		{A61BF0FB-2177-40FF-82B2-3AF2C1CBC577}.Release|Win32.ActiveCfg = Release|Win32
+		{A61BF0FB-2177-40FF-82B2-3AF2C1CBC577}.Release|Win32.Build.0 = Release|Win32
+		{5B36B4ED-0B74-4266-AA58-FCB287336C0B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B36B4ED-0B74-4266-AA58-FCB287336C0B}.Debug|Win32.Build.0 = Debug|Win32
+		{5B36B4ED-0B74-4266-AA58-FCB287336C0B}.Release|Win32.ActiveCfg = Release|Win32
+		{5B36B4ED-0B74-4266-AA58-FCB287336C0B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
